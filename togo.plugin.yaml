@@ -1,0 +1,8 @@
+name: ontology
+description: Experimental — permission-aware, authority-ranked context graph to ground agents.
+priority: 50
+backend:
+  package: github.com/togo-framework/ontology
+migrations: []
+frontend: { dir: "" }
+commands: []
